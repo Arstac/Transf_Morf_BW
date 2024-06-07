@@ -86,6 +86,3 @@ pip install numpy opencv-python scipy
 - `img`: Almacena la imagen cargada.
 - `img_concat`: Almacena la imagen concatenada para su visualización.
 
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
